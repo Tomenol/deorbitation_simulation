@@ -23,4 +23,4 @@ Fig. 2.2 : apogee/perigee height
 
 
 Fig. 3 : Guidance parameters (Thrust acceleration / Thrust angle)   
-![image](https://user-images.githubusercontent.com/54234406/154808121-3ac3c089-7294-4540-820a-c1bfbb0c5dc4.png)
+![image](https://user-images.githubusercontent.com/54234406/154808141-fc7de980-812b-4d19-9955-279c797d322d.png)
