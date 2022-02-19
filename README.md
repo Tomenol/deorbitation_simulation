@@ -11,15 +11,15 @@ The objective of this code is to compute the optimal deorbitation trajectory whi
 The following plots show some computation results for a debris (initial orbit h0 = 1000 km) of mass 1020 kg (C_drag = 2.1 / S_ref = 1.0) with the associated kit configuration
 
 Fig. 1 : 2D trajectory (SSO orbit plane) 
-![image](https://user-images.githubusercontent.com/54234406/154808056-d35dfe12-a6fb-4570-b66c-0d2d3106bdfb.png)
+![image](https://user-images.githubusercontent.com/54234406/154808192-e477f88a-c0fa-4e32-af61-3a1e24dde147.png)
 
 
 Fig. 2.1 : real debris height during deorbitation 
-![image](https://user-images.githubusercontent.com/54234406/154808075-acdcb430-c075-481e-a44e-416c063f7aa1.png)
+![image](https://user-images.githubusercontent.com/54234406/154808183-bb15fbe1-1c2d-4a34-9cb0-d0945171f863.png)
 
 
 Fig. 2.2 : apogee/perigee height
-![image](https://user-images.githubusercontent.com/54234406/154808105-05e948aa-c899-41bf-add7-18541cc6f0f3.png)
+![image](https://user-images.githubusercontent.com/54234406/154808167-ba812732-e07d-4810-b340-ffcd623e9892.png)
 
 
 Fig. 3 : Guidance parameters (Thrust acceleration / Thrust angle)   
