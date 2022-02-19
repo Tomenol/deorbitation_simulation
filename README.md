@@ -5,22 +5,22 @@ The ADR system is composed of one platform (integrated on a liquid propellant Ki
 
 The objective of this code is to compute the optimal deorbitation trajectory which minimizes deorbitation time by computing the optimal thrust vector direction. We consider two types of sequences : 
 - Propelled sequences, where at least one Solid Rocket Motor (SRM) is burning
-- Normal sequences, where the only forces acting on the system are gravity and atmospheric drag 
+- Non-propelled sequences, where the only forces acting on the system are gravity and atmospheric drag 
 
 # Results 
 The following plots show some computation results for a debris (initial orbit h0 = 1000 km) of mass 1020 kg (C_drag = 2.1 / S_ref = 1.0) with the associated kit configuration
 
 Fig. 1 : 2D trajectory (SSO orbit plane) 
-![image](https://user-images.githubusercontent.com/54234406/154807752-ef217cb8-148c-4b36-8a84-76b556e40948.png)
+![image](https://user-images.githubusercontent.com/54234406/154808056-d35dfe12-a6fb-4570-b66c-0d2d3106bdfb.png)
 
 
-Fig. 2.1 : real height  
-![image](https://user-images.githubusercontent.com/54234406/154807968-87431870-a956-4e66-a346-3f54714965a4.png)
+Fig. 2.1 : real debris height during deorbitation 
+![image](https://user-images.githubusercontent.com/54234406/154808075-acdcb430-c075-481e-a44e-416c063f7aa1.png)
 
 
-Fig. 2.2 : real height  
-![image](https://user-images.githubusercontent.com/54234406/154807971-a8c20122-f999-48b7-a9bc-43b9846122f8.png)
+Fig. 2.2 : apogee/perigee height
+![image](https://user-images.githubusercontent.com/54234406/154808105-05e948aa-c899-41bf-add7-18541cc6f0f3.png)
 
 
 Fig. 3 : Guidance parameters (Thrust acceleration / Thrust angle)   
-![image](https://user-images.githubusercontent.com/54234406/154807868-eeb743c2-b5c6-49f0-a115-68a73a46a24b.png)
+![image](https://user-images.githubusercontent.com/54234406/154808121-3ac3c089-7294-4540-820a-c1bfbb0c5dc4.png)
