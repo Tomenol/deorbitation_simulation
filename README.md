@@ -8,7 +8,7 @@ The objective of this code is to compute the optimal deorbitation trajectory whi
 - Non-propelled sequences, where the only forces acting on the system are gravity and atmospheric drag 
 
 # Results 
-The following plots show some computation results for a debris (initial orbit h0 = 1000 km) of mass 1020 kg (C_drag = 2.1 / S_ref = 1.0) with the associated kit configuration
+The following plots show some computation results for a debris (initial orbit h0 = 1000 km) of mass 1020 kg ($C_{drag} = 2.1$ / $S_{ref} = 1.0$) with the associated kit configuration
 
 Fig. 1 : 2D trajectory (SSO orbit plane) 
 
